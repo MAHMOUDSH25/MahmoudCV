@@ -1,0 +1,109 @@
+.appImage {
+  width: 300px;
+  height: 600px;
+  border-radius: 10px;
+  transition: width 1s, height 1s, margin 1s;
+}
+
+    .appImage:hover {
+      width: 330px;
+      height: 660px;
+      margin: -20px 20px 0px -20px;
+      box-shadow: 24;
+    }
+
+.MainWebImage {
+  width: 400px;
+  height: 200px;
+  border-radius: 10px;
+  transition: width 1s, height 1s, margin 1s;
+}
+    .MainWebImage:hover {
+      width: 900px;
+      height: 450px;
+      margin: -20px 0px -70px -500px;
+      box-shadow: 24;
+    }
+
+
+
+
+.BottomWebImage {
+  margin-top: 80px;
+  border-radius: 10px;
+  width: 400px;
+  height: 200px;
+  transition: width 1s, height 1s, margin 1s;
+}
+    .BottomWebImage:hover {
+      width: 900px;
+      height: 450px;
+      margin: -150px 0px -70px -500px;
+      box-shadow: 24;
+    }
+
+.Text {
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  color: rgb(39, 39, 39);
+  /* text-shadow: 0px 3px 5px; */
+}
+
+
+.pattern{
+  width: 400px;
+  height: 200px;
+  border-radius: 10px;
+  transition: width 1s, height 1s, margin 1s;
+}
+
+    .pattern:hover {
+      width: 450px;
+      height: 225px;
+      margin: -40px 0px 10px -25px;
+    }
+
+.rollercoster{
+  width: 175px;
+  height: 270px;
+  margin-left: 10px ;
+  border-radius: 10px;
+  transition: width 1s, height 1s, margin 1s;
+}
+
+    .rollercoster:hover {
+      width: 200px;
+      height: 300px;
+      margin: 20px -20px 20px -40px;
+      
+    }
+
+.expo{
+  width: 175px;
+  height: 270px;
+  margin-left: 30px ;
+  border-radius: 10px;
+  transition: width 1s, height 1s, margin 1s;
+}
+
+    .expo:hover {
+      width: 200px;
+      height: 300px;
+      margin: 20px -20px 20px 40px;
+    }
+
+.mercedes{
+  width: 400px;
+  height: 250px;
+  border-radius: 10px;
+  transition: width 1s, height 1s, margin 1s;
+}
+
+    .mercedes:hover {
+      width: 450px;
+      height: 275px;
+      margin: 20px 20px 0px -20px;
+    }
+
+

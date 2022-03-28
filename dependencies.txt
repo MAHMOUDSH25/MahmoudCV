@@ -1,0 +1,1 @@
+npm install bcryptjs body-parser cloudinary cors dotenv express-favicon express-form-data jsonwebtoken mongoose passport passport-jwt express
